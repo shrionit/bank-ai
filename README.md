@@ -9,7 +9,7 @@ Bank AI is a full-stack conversational banking application for DBS Bank Singapor
 - Ask about DBS bank information, available services, cards, eligibility, and fees
 - Follow a conversational customer onboarding flow
 - Verify a customer by email
-- Issue a demo card linked to a customer in SQLite
+- Issue a sample card linked to a customer in SQLite
 - Keep chat history in a session
 - Return both spoken summaries and structured text or list details
 
@@ -133,7 +133,7 @@ Open `http://localhost:5173/`.
 
 The Vite development server proxies `/api` requests to `http://localhost:5000`.
 
-## Available Demo Flows
+## Available Chat Flows
 
 Try prompts such as:
 
@@ -143,7 +143,7 @@ Try prompts such as:
 - “I want to apply for the DBS Altitude Visa Signature.”
 - “My email is demo@example.com.”
 
-For a new customer, the assistant follows a confirmation-based onboarding flow before calling the database tools. Generated card numbers and customer records are demo data only.
+For a new customer, the assistant follows a confirmation-based onboarding flow before calling the database tools. Generated card numbers and customer records are sample data only.
 
 ## Backend API
 
@@ -176,7 +176,7 @@ npm start
 
 ## Improvement Ideas
 
-This project has room for much more work beyond the assignment:
+There is room for further expansion:
 
 - Fetch all cards issued to the current authenticated user
 - Add customer-specific balances, transactions, statements, transfers, and card status

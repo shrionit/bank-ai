@@ -1,0 +1,94 @@
+
+{
+  "bank": "DBS Bank Singapore",
+  "services": [
+    {
+      "category": "Bank Accounts",
+      "description": "Bank accounts for everyday transactions, savings and money management.",
+      "products": [
+        "Savings Accounts",
+        "Current Accounts",
+        "Joint Accounts",
+        "Multi-Currency Accounts"
+      ]
+    },
+    {
+      "category": "Deposits",
+      "description": "Products designed to help customers save money and earn interest.",
+      "products": [
+        "Fixed Deposits",
+        "Recurring Savings"
+      ]
+    },
+    {
+      "category": "Cards",
+      "description": "Payment cards offering cashback, rewards, travel benefits and convenient payments.",
+      "products": [
+        "Credit Cards",
+        "Debit Cards",
+        "Travel Cards"
+      ]
+    },
+    {
+      "category": "Payments",
+      "description": "Payment solutions for individuals and businesses.",
+      "products": [
+        "PayNow",
+        "FAST",
+        "GIRO",
+        "Bill Payments",
+        "QR Payments"
+      ]
+    },
+    {
+      "category": "Money Transfers",
+      "description": "Domestic and international money transfer services.",
+      "products": [
+        "Local Bank Transfers",
+        "International Transfers",
+        "DBS Remit"
+      ]
+    },
+    {
+      "category": "Loans",
+      "description": "Financing solutions for personal and property-related needs.",
+      "products": [
+        "Personal Loans",
+        "Home Loans",
+        "Education Loans"
+      ]
+    },
+    {
+      "category": "Investments",
+      "description": "Investment products and wealth management services.",
+      "products": [
+        "Stocks",
+        "Unit Trusts",
+        "Bonds",
+        "Investment Products",
+        "Wealth Management"
+      ]
+    },
+    {
+      "category": "Insurance",
+      "description": "Insurance products covering life, health and general insurance needs.",
+      "products": [
+        "Life Insurance",
+        "Health Insurance",
+        "General Insurance"
+      ]
+    },
+    {
+      "category": "Digital Banking",
+      "description": "Digital platforms for managing banking activities and payments.",
+      "products": [
+        "DBS digibank",
+        "DBS PayLah!"
+      ]
+    }
+  ],
+  "official_sources": [
+    "https://www.dbs.com.sg/personal/default.page",
+    "https://www.dbs.com.sg/personal/deposits/digital-services/default-bk.page"
+  ]
+}

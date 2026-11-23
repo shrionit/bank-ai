@@ -1,0 +1,34 @@
+
+{
+  "bank": "DBS Bank",
+  "full_name": "The Development Bank of Singapore Limited",
+  "country": "Singapore",
+  "headquarters": "Marina Bay Financial Centre, Singapore",
+  "currency": {
+    "name": "Singapore Dollar",
+    "code": "SGD",
+    "symbol": "S$"
+  },
+  "website": "https://www.dbs.com.sg/",
+  "description": "DBS Bank is a Singapore-based financial services group providing consumer banking, wealth management, institutional banking and financial services.",
+  "business_areas": [
+    "Consumer Banking",
+    "Wealth Management",
+    "Institutional Banking",
+    "Financial Markets"
+  ],
+  "digital_platforms": [
+    {
+      "name": "DBS digibank",
+      "description": "Digital banking application for managing accounts, transferring money, making payments, managing cards, accessing loans and investments."
+    },
+    {
+      "name": "DBS PayLah!",
+      "description": "Digital wallet for QR payments, bill payments, local transfers and lifestyle offers."
+    }
+  ],
+  "official_sources": [
+    "https://www.dbs.com.sg/",
+    "https://www.dbs.com.sg/personal/default.page"
+  ]
+}

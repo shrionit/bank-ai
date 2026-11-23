@@ -1,0 +1,211 @@
+
+{
+  "bank": "DBS Bank Singapore",
+  "cards": [
+    {
+      "name": "DBS Live Fresh Card",
+      "category": ["Cashback", "Online Shopping", "Contactless Payments"],
+      "network": "Visa",
+      "description": "A cashback-oriented card designed for online shopping and contactless spending.",
+      "benefits": [
+        "Cashback on eligible online spending",
+        "Cashback on eligible contactless transactions"
+      ],
+      "annual_fee": 196.20,
+      "currency": "SGD",
+      "annual_fee_waiver": "First year"
+    },
+    {
+      "name": "POSB Everyday Card",
+      "category": ["Cashback", "Dining", "Transport", "Shopping"],
+      "network": "Mastercard",
+      "description": "An everyday spending card offering rebates across selected spending categories.",
+      "benefits": [
+        "Up to 10% cashback on eligible dining",
+        "Up to 10% cashback on eligible Malaysian Ringgit in-store spending",
+        "Up to 10% cashback on eligible SimplyGo transactions"
+      ],
+      "annual_fee": 196.20,
+      "currency": "SGD",
+      "annual_fee_waiver": "First year"
+    },
+    {
+      "name": "DBS Chromo Card",
+      "category": ["Cashback", "Lifestyle", "Travel"],
+      "network": "Visa",
+      "description": "A lifestyle-focused card designed for younger customers.",
+      "eligibility": {
+        "age_min": 21,
+        "age_max": 29
+      },
+      "benefits": [
+        "Up to 5% cashback on eligible top two local spending categories",
+        "Option to switch between cashback and miles monthly",
+        "Zero foreign currency fees",
+        "Five-year annual fee waiver"
+      ]
+    },
+    {
+      "name": "SAFRA DBS Mastercard",
+      "category": ["Cashback", "Shopping", "Lifestyle"],
+      "network": "Mastercard",
+      "description": "A card offering cashback and privileges for eligible SAFRA members.",
+      "benefits": [
+        "Up to 3% cashback on eligible local contactless and online shopping",
+        "SAFRA membership privileges",
+        "Participating merchant offers"
+      ],
+      "eligibility": {
+        "membership_required": "SAFRA membership"
+      }
+    },
+    {
+      "name": "DBS Altitude Visa Signature",
+      "category": ["Travel", "Miles", "Air Travel"],
+      "network": "Visa",
+      "description": "A travel rewards card designed for accumulating air miles.",
+      "benefits": [
+        "Up to 2.2 miles per S$1 on eligible overseas foreign-currency spending",
+        "Up to 1.3 miles per S$1 on eligible local spending",
+        "Travel-related rewards"
+      ]
+    },
+    {
+      "name": "DBS Altitude American Express",
+      "category": ["Travel", "Miles", "Air Travel"],
+      "network": "American Express",
+      "description": "A travel rewards card for customers who want to accumulate air miles.",
+      "benefits": [
+        "Up to 2.2 miles per S$1 on eligible overseas spending",
+        "Up to 1.3 miles per S$1 on eligible local spending"
+      ]
+    },
+    {
+      "name": "DBS Vantage Visa Infinite",
+      "category": ["Premium", "Travel", "Miles", "Cashback"],
+      "network": "Visa",
+      "description": "A premium credit card offering travel privileges and rewards.",
+      "annual_fee": 599.50,
+      "currency": "SGD",
+      "benefits": [
+        "Up to 2.2 miles per S$1 on eligible overseas spending",
+        "Option for up to 2.2% cashback",
+        "Accor Plus Explorer membership",
+        "Two complimentary hotel nights under membership benefits",
+        "10 complimentary Priority Pass lounge visits"
+      ]
+    },
+    {
+      "name": "DBS yuu Visa Card",
+      "category": ["Cashback", "Shopping", "Lifestyle", "Rewards"],
+      "network": "Visa",
+      "description": "A rewards card designed for everyday purchases at participating yuu merchants.",
+      "benefits": [
+        "Up to 18% cashback or 10 miles per S$1 at participating yuu merchants",
+        "Rewards at selected supermarkets, pharmacies and lifestyle merchants"
+      ],
+      "qualifying_conditions": [
+        "Minimum S$800 eligible monthly spending",
+        "Transactions at four different participating merchants"
+      ],
+      "reward_cap": {
+        "amount": 144,
+        "currency": "SGD",
+        "period": "Monthly",
+        "description": "Combined cashback cap, subject to applicable terms"
+      }
+    },
+    {
+      "name": "DBS yuu American Express Card",
+      "category": ["Cashback", "Shopping", "Lifestyle", "Rewards"],
+      "network": "American Express",
+      "description": "A rewards card offering benefits at participating yuu merchants.",
+      "benefits": [
+        "Up to 18% cashback or 10 miles per S$1 at participating yuu merchants",
+        "Everyday shopping and lifestyle rewards"
+      ]
+    },
+    {
+      "name": "DBS Woman's World Mastercard",
+      "category": ["Shopping", "Online Spending", "Rewards"],
+      "network": "Mastercard",
+      "description": "A rewards card focused on eligible online purchases.",
+      "benefits": [
+        "10X DBS Points on eligible online purchases",
+        "3X DBS Points on eligible overseas purchases",
+        "1X DBS Point on other eligible purchases"
+      ]
+    },
+    {
+      "name": "DBS Woman's Mastercard",
+      "category": ["Shopping", "Online Spending", "Rewards"],
+      "network": "Mastercard",
+      "description": "A rewards card designed for online purchases and everyday spending.",
+      "benefits": [
+        "5X DBS Points on eligible online purchases",
+        "1X DBS Point on other eligible purchases"
+      ]
+    },
+    {
+      "name": "DBS Esso Mastercard",
+      "category": ["Fuel", "Automotive", "Cashback"],
+      "network": "Mastercard",
+      "description": "A specialised card offering fuel-related benefits at Esso.",
+      "benefits": [
+        "Fuel discounts and rebates subject to applicable Esso promotions and terms"
+      ]
+    },
+    {
+      "name": "DBS Takashimaya Visa",
+      "category": ["Shopping", "Retail", "Rewards"],
+      "network": "Visa",
+      "description": "A specialised shopping card offering benefits at Takashimaya.",
+      "benefits": [
+        "Takashimaya shopping privileges and rewards subject to applicable terms"
+      ]
+    },
+    {
+      "name": "DBS Takashimaya American Express",
+      "category": ["Shopping", "Retail", "Rewards"],
+      "network": "American Express",
+      "description": "A shopping-focused card offering Takashimaya-related privileges.",
+      "benefits": [
+        "Takashimaya shopping privileges and rewards subject to applicable terms"
+      ]
+    },
+    {
+      "name": "DBS Live Fresh Student Card",
+      "category": ["Student", "Shopping", "Cashback"],
+      "network": "Visa",
+      "description": "A student-focused card designed for eligible younger customers.",
+      "benefits": [
+        "Student-oriented spending and rewards benefits subject to current terms"
+      ]
+    }
+  ],
+  "general_eligibility": {
+    "minimum_age": 21,
+    "income_requirements": {
+      "singapore_citizens_and_pr": {
+        "age_55_or_below": 30000,
+        "age_56_to_75": 15000
+      },
+      "foreigners": 45000
+    },
+    "currency": "SGD",
+    "note": "Individual cards may have additional eligibility requirements."
+  },
+  "common_fees": {
+    "standard_annual_fee": 196.20,
+    "supplementary_card_fee": 98.10,
+    "late_payment_fee": 100,
+    "currency": "SGD",
+    "note": "Fees vary by card and are subject to DBS terms."
+  },
+  "official_sources": [
+    "https://www.dbs.com.sg/personal/cards/default.page",
+    "https://www.dbs.com.sg/personal/cards/cards-comparator.page",
+    "https://www.dbs.com.sg/personal/cards/cards-application-checklist.page",
+    "https://www.dbs.com.sg/personal/support/card-charges-and-fees-annual-fee.html"
+  ]
+}

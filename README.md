@@ -1,8 +1,6 @@
-# Bank AI Demo
+# Bank AI
 
-Bank AI is a full-stack conversational banking demo for DBS Bank Singapore. It uses a React chat interface, an Express API, Ollama for local tool-calling AI responses, and SQLite through Prisma to demonstrate customer onboarding and card issuance.
-
-> **Assignment/demo notice:** This is a simple demonstration project, not a production banking application. There is much more that can be implemented, such as fetching every card issued to the current user, customer account balances and transactions, card activation or replacement, authentication and authorization, audit logging, real provider integrations, and stronger prompts and validation. The prompt and tools can also be expanded and improved significantly.
+Bank AI is a full-stack conversational banking application for DBS Bank Singapore. It uses a React chat interface, an Express API, Ollama for local tool-calling AI responses, and SQLite through Prisma to support customer onboarding and card issuance.
 
 ## Features
 

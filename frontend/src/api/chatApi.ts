@@ -40,13 +40,13 @@ export interface ChatApiSendResult {
 }
 
 const INITIAL_DUMMY_MESSAGES: ChatMessage[] = [
-  // {
-  //   id: "msg-1",
-  //   sender: "assistant",
-  //   type: "text",
-  //   text: "Hello! Welcome to Bank AI. I'm your intelligent financial assistant.",
-  //   timestamp: "10:00 AM",
-  // },
+  {
+    id: "msg-1",
+    sender: "assistant",
+    type: "text",
+    text: "Hello! Welcome to Bank AI. I'm your intelligent financial assistant for DBS Bank Singapore.",
+    timestamp: "10:00 AM",
+  },
 ];
 
 function formatTimestamp(): string {
